@@ -9,7 +9,7 @@ step2/
 step3/
 step4/
 step5/
-HANDOFF.md
+/HANDOFF.md
 steam_library.csv
 preclassification*.csv
 steam_collections*.json
